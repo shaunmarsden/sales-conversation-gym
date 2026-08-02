@@ -12,6 +12,7 @@ It is not a script library. The aim is to learn how to think in the conversation
 | --- | --- |
 | Run your first practice round | [Run a Round](guides/run-a-round.md) |
 | Try a fictional discovery conversation | [Northstar First Discovery](scenarios/northstar-first-discovery.md) |
+| Practise a hesitant buyer conversation | [Northstar Says We Need to Think About It](scenarios/northstar-think-it-over.md) |
 | Play the buyer role | [Priya Role Card](roles/priya-commercial-director.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
@@ -25,6 +26,12 @@ It is not a script library. The aim is to learn how to think in the conversation
 5. The salesperson reviews the conversation with the coaching sheet.
 
 No one should see the buyer's hidden context before the round.
+
+## A Useful Way to Practise Objections
+
+“We need to think about it” is not an objection to swat away. It can mean the buyer has not seen enough value, does not know who owns the problem, lacks capacity or simply has something more urgent to deal with.
+
+The [Northstar follow up scenario](scenarios/northstar-think-it-over.md) lets you practise finding that out without becoming defensive or trying to force a next meeting.
 
 ## What Good Practice Looks Like
 
