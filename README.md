@@ -27,6 +27,8 @@ It is not a script library. The aim is to learn how to think in the conversation
 
 No one should see the buyer's hidden context before the round.
 
+[![Sales conversation practice loop](assets/diagrams/26-sales-conversation-gym.svg)](guides/run-a-round.md)
+
 ## A Useful Way to Practise Objections
 
 "We need to think about it" is not an objection to swat away. It can mean the buyer has not seen enough value, does not know who owns the problem, lacks capacity or simply has something more urgent to deal with.
