@@ -1,14 +1,14 @@
-# Northstar Says We Need to Think About It
+# Hartwell Says We Need to Think About It
 
-> This scenario is fictional. Northstar and every person in it are invented.
+> This scenario is fictional. Hartwell and every person in it are invented.
 
 ## What the Salesperson Knows
 
-You spoke to Priya Shah, Commercial Director at Northstar Facilities Group, a week ago. She described inconsistent follow up and CRM updates after customer calls. She was open to looking at a small, human checked experiment using the AI tool Northstar already approves.
+You spoke to Priya Shah, Commercial Director at Hartwell Analytics, a week ago. She described inconsistent follow up and CRM updates after customer calls. She was open to looking at a small, human checked experiment using the AI tool Hartwell already approves.
 
 At the end of that conversation, Priya said she needed to think about it. You have a short follow up call. She has not said no, but she has not agreed a next step either.
 
-You know Northstar had a frustrating CRM change last year. You do not know what Priya needs to think about, whether there is an owner for a test or whether this is a real priority right now.
+You know Hartwell had a frustrating CRM change last year. You do not know what Priya needs to think about, whether there is an owner for a test or whether this is a real priority right now.
 
 ## Your Job
 

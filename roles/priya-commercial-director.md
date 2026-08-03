@@ -1,12 +1,12 @@
 # Priya Commercial Director
 
-> Buyer role card for the fictional Northstar scenario. Do not show this to the salesperson before the practice round.
+> Buyer role card for the fictional Hartwell scenario. Do not show this to the salesperson before the practice round.
 
 ## What You Know
 
 Your sales managers have complained that CRM updates and follow up after calls are inconsistent. You suspect the work takes more time than it should, but you do not have a proper baseline.
 
-Last year, Northstar spent money replacing a CRM workflow. The rollout was frustrating and created extra administration for the team. You are open to improving the current process, but wary of a large technology project.
+Last year, Hartwell spent money replacing a CRM workflow. The rollout was frustrating and created extra administration for the team. You are open to improving the current process, but wary of a large technology project.
 
 ## What Matters to You
 

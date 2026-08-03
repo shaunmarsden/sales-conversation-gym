@@ -1,10 +1,10 @@
-# Northstar First Discovery
+# Hartwell First Discovery
 
-> This scenario is fictional. Northstar and every person in it are invented.
+> This scenario is fictional. Hartwell and every person in it are invented.
 
 ## What the Salesperson Knows
 
-Northstar Facilities Group has agreed to an exploratory 30 minute conversation after a short note about reducing repetitive sales administration with AI.
+Hartwell Analytics has agreed to an exploratory 30 minute conversation after a short note about reducing repetitive sales administration with AI.
 
 The contact is Priya Shah, Commercial Director. She mentioned that follow up and CRM updates can be inconsistent after customer calls. She also said the company has recently tightened approval for new software after a difficult CRM implementation.
 
@@ -12,13 +12,13 @@ You do not know whether there is a budget, project, timescale, approved tool or 
 
 ## Your Job
 
-Understand whether there is a specific problem worth exploring. If useful, agree a small next step that helps Northstar learn more without assuming a purchase.
+Understand whether there is a specific problem worth exploring. If useful, agree a small next step that helps Hartwell learn more without assuming a purchase.
 
 ## What You Should Not Assume
 
 - Priya can approve a project on her own
 - Late follow up is causing lost revenue
-- Northstar needs new software
+- Hartwell needs new software
 - AI is the right answer
 - A pilot has been agreed
 
