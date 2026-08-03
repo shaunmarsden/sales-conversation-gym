@@ -6,7 +6,7 @@
 
 Hartwell Analytics has agreed to an exploratory 30 minute conversation after a short note about reducing repetitive sales administration with AI.
 
-The contact is Priya Shah, Commercial Director. She mentioned that follow up and CRM updates can be inconsistent after customer calls. She also said the company has recently tightened approval for new software after a difficult CRM implementation.
+The contact is Meera Kapoor, Commercial Director. She mentioned that follow up and CRM updates can be inconsistent after customer calls. She also said the company has recently tightened approval for new software after a difficult CRM implementation.
 
 You do not know whether there is a budget, project, timescale, approved tool or decision process.
 
@@ -16,7 +16,7 @@ Understand whether there is a specific problem worth exploring. If useful, agree
 
 ## What You Should Not Assume
 
-- Priya can approve a project on her own
+- Meera can approve a project on her own
 - Late follow up is causing lost revenue
 - Hartwell needs new software
 - AI is the right answer
@@ -26,4 +26,4 @@ Understand whether there is a specific problem worth exploring. If useful, agree
 
 By the end, you know what part of the work matters most, who is involved, what evidence exists and whether there is a sensible next conversation.
 
-Read the [Priya role card](../roles/priya-commercial-director.md) only after someone has agreed to play the buyer.
+Read the [Meera role card](../roles/meera-commercial-director.md) only after someone has agreed to play the buyer.

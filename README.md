@@ -13,7 +13,7 @@ It is not a script library. The aim is to learn how to think in the conversation
 | Run your first practice round | [Run a Round](guides/run-a-round.md) |
 | Try a fictional discovery conversation | [Hartwell First Discovery](scenarios/hartwell-first-discovery.md) |
 | Practise a hesitant buyer conversation | [Hartwell Says We Need to Think About It](scenarios/hartwell-think-it-over.md) |
-| Play the buyer role | [Priya Role Card](roles/priya-commercial-director.md) |
+| Play the buyer role | [Meera Role Card](roles/meera-commercial-director.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
 

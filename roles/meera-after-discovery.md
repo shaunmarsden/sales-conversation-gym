@@ -1,4 +1,4 @@
-# Priya After Discovery
+# Meera After Discovery
 
 > Buyer role card for the fictional Hartwell "we need to think about it" scenario. Do not show this to the salesperson before the practice round.
 
