@@ -13,7 +13,8 @@ It is not a script library. The aim is to learn how to think in the conversation
 | Run your first practice round | [Run a Round](guides/run-a-round.md) |
 | Try a fictional discovery conversation | [Hartwell First Discovery](scenarios/hartwell-first-discovery.md) |
 | Practise a hesitant buyer conversation | [Hartwell Says We Need to Think About It](scenarios/hartwell-think-it-over.md) |
-| Play the buyer role | [Meera Role Card](roles/meera-commercial-director.md) |
+| Practise a business case conversation with finance | [Hartwell Business Case Conversation](scenarios/hartwell-business-case-conversation.md) |
+| Play the buyer role | [Meera Role Card](roles/meera-commercial-director.md) or [Daniel Role Card](roles/daniel-finance-director.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
 
@@ -34,6 +35,10 @@ No one should see the buyer's hidden context before the round.
 "We need to think about it" is not an objection to swat away. It can mean the buyer has not seen enough value, does not know who owns the problem, lacks capacity or simply has something more urgent to deal with.
 
 The [Hartwell follow up scenario](scenarios/hartwell-think-it-over.md) lets you practise finding that out without becoming defensive or trying to force a next meeting.
+
+## A Useful Way to Practise a Business Case
+
+A commercial sponsor being interested is not the same as finance approving anything. The [Hartwell business case scenario](scenarios/hartwell-business-case-conversation.md) tests whether you can build a case from what a trial actually showed, rather than what it felt like it showed.
 
 ## What Good Practice Looks Like
 
