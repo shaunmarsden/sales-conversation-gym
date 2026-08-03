@@ -1,4 +1,4 @@
-# Priya Commercial Director
+# Meera Commercial Director
 
 > Buyer role card for the fictional Hartwell scenario. Do not show this to the salesperson before the practice round.
 
