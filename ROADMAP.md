@@ -19,4 +19,4 @@ Before adding a score history, leader board or automated feedback, test whether 
 ## Built So Far
 
 - A discovery conversation where the buyer's context is still unclear
-- A follow up conversation where “we need to think about it” hides a practical concern about ownership, capacity and effort
+- A follow up conversation where "we need to think about it" hides a practical concern about ownership, capacity and effort

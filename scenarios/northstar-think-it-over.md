@@ -12,7 +12,7 @@ You know Northstar had a frustrating CRM change last year. You do not know what 
 
 ## Your Job
 
-Find out what is behind “we need to think about it”. Stay curious long enough to understand whether there is a practical next step, or whether it is better to leave it there for now.
+Find out what is behind "we need to think about it". Stay curious long enough to understand whether there is a practical next step, or whether it is better to leave it there for now.
 
 The aim is not to overcome the phrase. It is to understand the concern beneath it.
 
