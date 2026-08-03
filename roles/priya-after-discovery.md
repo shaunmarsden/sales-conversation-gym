@@ -1,6 +1,6 @@
 # Priya After Discovery
 
-> Buyer role card for the fictional Northstar “we need to think about it” scenario. Do not show this to the salesperson before the practice round.
+> Buyer role card for the fictional Northstar "we need to think about it" scenario. Do not show this to the salesperson before the practice round.
 
 ## What Has Changed Since the First Conversation
 
