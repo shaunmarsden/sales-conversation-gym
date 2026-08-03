@@ -50,3 +50,11 @@ The scenarios are fictional training material. They are not evidence that a conv
 ## Next
 
 See the [roadmap](ROADMAP.md). New scenarios should be added only when they represent a recognisable sales challenge, not just a more difficult way to practise.
+
+## Feedback
+
+Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-conversation-gym/issues/new?template=feedback.yml) if something helped, felt unclear, or you would like to see next. See [what the form asks](feedback/README.md) before you start.
+
+## Part of a Family
+
+This is one of four free tools for commercial teams experimenting with AI. **Sales Conversation Gym** practises the conversations themselves; [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) is the starting point for adopting AI as a team; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether an AI tool actually helps with a task; [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague ambition into a real first test.
