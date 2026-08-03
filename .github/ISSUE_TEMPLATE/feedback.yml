@@ -1,0 +1,63 @@
+name: Share Feedback
+description: Tell us what helped, what felt unclear or what you would like to see next.
+title: "Feedback: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying this. A few short answers are more useful than a polished review.
+
+  - type: dropdown
+    id: starting-point
+    attributes:
+      label: What were you trying to do?
+      options:
+        - Run a practice round
+        - Try the Hartwell first discovery scenario
+        - Try the "think it over" follow-up scenario
+        - Review a real conversation with the coaching guide
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: useful
+    attributes:
+      label: What was useful?
+      description: A sentence is enough. It is fine to say nothing was useful yet.
+    validations:
+      required: true
+
+  - type: textarea
+    id: friction
+    attributes:
+      label: Where did you get stuck or feel unsure?
+      description: Tell us about the scenario, role card or step that caused the friction.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: effort
+    attributes:
+      label: Was the likely result worth the effort?
+      options:
+        - Yes
+        - Maybe, with a small improvement
+        - Not yet
+        - I did not get far enough to tell
+    validations:
+      required: true
+
+  - type: textarea
+    id: next
+    attributes:
+      label: What would make this more useful next time?
+      description: This can be a missing scenario, a clearer role card, a different format or anything else.
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before you send
+      options:
+        - label: I have not included customer, employer, confidential or personal information.
+          required: true
