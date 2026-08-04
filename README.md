@@ -15,13 +15,14 @@ It is not a script library. The aim is to learn how to think in the conversation
 | Practise a hesitant buyer conversation | [Hartwell Says We Need to Think About It](scenarios/hartwell-think-it-over.md) |
 | Practise a business case conversation with finance | [Hartwell Business Case Conversation](scenarios/hartwell-business-case-conversation.md) |
 | Play the buyer role | [Meera Role Card](roles/meera-commercial-director.md) or [Daniel Role Card](roles/daniel-finance-director.md) |
+| Practise without a second person | [AI Plays the Buyer](guides/ai-plays-the-buyer.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
 
 ## How It Works
 
 1. One person plays the salesperson.
-2. Another person, or an AI, plays the buyer using only the role card.
+2. Another person, or an AI given [a structured prompt](guides/ai-plays-the-buyer.md), plays the buyer using only the role card.
 3. The salesperson works towards understanding, not a forced meeting or sale.
 4. The buyer gives feedback from the role card.
 5. The salesperson reviews the conversation with the coaching sheet.
