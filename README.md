@@ -62,4 +62,13 @@ Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/s
 
 ## Part of a Family
 
-This is one of four free tools for commercial teams experimenting with AI, generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). **Sales Conversation Gym** practises the conversations themselves; [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) is the starting point for adopting AI as a team; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether an AI tool actually helps with a task; [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague ambition into a real first test.
+Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows).
+
+| Tool | Open it when |
+| --- | --- |
+| [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) | You are setting this up for a team, not just yourself |
+| [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) | You have a vague idea AI might help and need to turn it into one testable change |
+| [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) | You already know the task and want to know whether a specific AI tool actually helps with it |
+| [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) (you are here) | You want to practise the sales conversations themselves, not test AI tooling |
+
+New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams).
