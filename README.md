@@ -63,13 +63,4 @@ Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/s
 
 ## Part of a Family
 
-Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows).
-
-| Tool | Open it when |
-| --- | --- |
-| [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) | You are setting this up for a team, not just yourself |
-| [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) | You have a vague idea AI might help and need to turn it into one testable change |
-| [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) | You already know the task and want to know whether a specific AI tool actually helps with it |
-| [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) (you are here) | You want to practise the sales conversations themselves, not test AI tooling |
-
-New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams).
+Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), the entry point for team-wide adoption. [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague idea into a first test, [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool actually helps with a task; this one practises the conversations themselves.
