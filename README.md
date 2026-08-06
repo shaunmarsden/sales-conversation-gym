@@ -2,7 +2,7 @@
 
 Practice the awkward parts of a sales conversation before they matter.
 
-This is a set of fictional role plays for discovery, objections, business cases, stalled decisions and handovers. It helps a salesperson practise listening, asking better questions and staying honest when the answer is not clear.
+This is a set of fictional role plays for discovery, objections, business cases and stalled decisions. It helps a salesperson practise listening, asking better questions and staying honest when the answer is not clear.
 
 It is not a script library. The aim is to learn how to think in the conversation, not memorise clever lines.
 
