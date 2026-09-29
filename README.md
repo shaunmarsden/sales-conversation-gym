@@ -2,9 +2,9 @@
 
 Practice the awkward parts of a sales conversation before they matter.
 
-This is a set of fictional role plays for discovery, objections, business cases and stalled decisions. It helps a salesperson practise listening, asking better questions and staying honest when the answer is not clear.
+These are fictional role plays for discovery, objections, business cases and stalled decisions. A salesperson uses them to practise listening, asking better questions and staying honest when the answer isn't clear.
 
-It is not a script library. The aim is to learn how to think in the conversation, not memorise clever lines.
+They aren't scripts. The point is to learn how to think during the conversation, not to learn clever lines by heart.
 
 ## Start Here
 
@@ -23,44 +23,44 @@ It is not a script library. The aim is to learn how to think in the conversation
 
 1. One person plays the salesperson.
 2. Another person, or an AI given [a structured prompt](guides/ai-plays-the-buyer.md), plays the buyer using only the role card.
-3. The salesperson works towards understanding, not a forced meeting or sale.
+3. The salesperson tries to understand the buyer, not to force a meeting or a sale.
 4. The buyer gives feedback from the role card.
 5. The salesperson reviews the conversation with the coaching sheet.
 
-No one should see the buyer's hidden context before the round.
+Nobody should see the buyer's hidden context before the round.
 
 [![Sales conversation practice loop](assets/diagrams/26-sales-conversation-gym.svg)](guides/run-a-round.md)
 
 ## A Useful Way to Practise Objections
 
-"We need to think about it" is not an objection to swat away. It can mean the buyer has not seen enough value, does not know who owns the problem, lacks capacity or simply has something more urgent to deal with.
+"We need to think about it" isn't an objection to brush aside. It can mean the buyer hasn't seen enough value, doesn't know who owns the problem, has no time for it, or has something more urgent to deal with.
 
-The [Hartwell follow up scenario](scenarios/hartwell-think-it-over.md) lets you practise finding that out without becoming defensive or trying to force a next meeting.
+The [Hartwell follow up scenario](scenarios/hartwell-think-it-over.md) lets you practise finding out which, without getting defensive or trying to force a next meeting.
 
 ## A Useful Way to Practise a Business Case
 
-A commercial sponsor being interested is not the same as finance approving anything. The [Hartwell business case scenario](scenarios/hartwell-business-case-conversation.md) tests whether you can build a case from what a trial actually showed, rather than what it felt like it showed.
+A commercial sponsor's interest isn't the same as finance approving anything. The [Hartwell business case scenario](scenarios/hartwell-business-case-conversation.md) tests whether you can build a case from what a trial showed, rather than what it felt like it showed.
 
 ## What Good Practice Looks Like
 
-- You reflect what was actually said before pitching anything
+- You play back what the buyer said before you pitch anything
 - You ask a useful question when information is missing
 - You keep assumptions visible
-- You do not invent a budget, authority, urgency or commitment
-- You close with a sensible next step, or accept that there is not one
+- You don't invent a budget, authority, urgency or commitment
+- You close with a sensible next step, or accept that there isn't one
 
 ## Current Status
 
-The scenarios are fictional training material. They are not evidence that a conversation method improves win rates or that a buyer will react in the same way in real life.
+The scenarios are fictional training material. They don't show that a way of running a conversation wins more deals, or that a real buyer will react the same way.
 
 ## Next
 
-See the [roadmap](ROADMAP.md). New scenarios should be added only when they represent a recognisable sales challenge, not just a more difficult way to practise.
+See the [roadmap](ROADMAP.md). I'll add a new scenario only when it's a sales problem people will recognise, not just a harder way to practise.
 
 ## Feedback
 
-Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-conversation-gym/issues/new?template=feedback.yml) if something helped, felt unclear, or you would like to see next. See [what the form asks](feedback/README.md) before you start.
+Tried this? [Share feedback in the short form](https://github.com/shaunmarsden/sales-conversation-gym/issues/new?template=feedback.yml) if something helped or felt unclear, or to say what you'd like to see next. See [what the form asks](feedback/README.md) before you start.
 
 ## Part of a Family
 
-Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), the entry point for team-wide adoption. [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague idea into a first test, [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool actually helps with a task; this one practises the conversations themselves.
+These are four free tools for commercial teams trying out AI. All four take patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams), the starting point for a whole team taking up AI. [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague idea into a first test. [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool helps with a task. This one is for practising the conversations themselves.

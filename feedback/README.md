@@ -1,6 +1,6 @@
 # Feedback
 
-You do not need to write a detailed review. A quick "this felt like a real objection" or "the role card gave too much away" is genuinely useful.
+You don't need to write a detailed review. A quick "this felt like a real objection" or "the role card gave too much away" helps.
 
 ## The Easy Option
 
@@ -23,6 +23,6 @@ That is enough to improve the next version.
 
 ## Keep It Safe
 
-Do not add customer, employer, confidential or personal information to a public issue. Describe the type of situation and the point where you got stuck instead.
+Don't put customer, employer, confidential or personal information in a public issue. Describe the kind of situation and where you got stuck instead.
 
-If you are adapting this inside your own organisation, use the feedback route your organisation has approved.
+If you're adapting this inside your own organisation, use the feedback route your organisation has approved.
