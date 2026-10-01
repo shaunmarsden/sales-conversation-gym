@@ -2,13 +2,13 @@
 
 ## Set Up
 
-Choose one scenario. Give the buyer only the buyer role card and give the salesperson only the scenario brief.
+Choose one scenario. Give the buyer only the buyer role card, and the salesperson only the scenario brief.
 
-Set a short time limit that makes the conversation feel real but leaves time to review it. The buyer should answer naturally, not read the card aloud.
+Set a short time limit: long enough for the conversation to feel real, short enough to leave time to review it. The buyer should answer naturally, not read the card aloud.
 
 ## The Salesperson's Job
 
-Your job is to understand the situation well enough to decide whether a next step would help. You do not need to solve everything in one conversation.
+Your job is to understand the situation well enough to decide whether a next step would help. You don't need to solve everything in one conversation.
 
 Useful opening:
 
@@ -16,7 +16,7 @@ Useful opening:
 
 ## The Buyer's Job
 
-Stay true to the role card. Do not give away hidden information because the salesperson asks for it in a convenient order. Share it only when the conversation earns it.
+Stick to the role card. Don't give away hidden information just because the salesperson happens to ask in a handy order. Share it only when the conversation earns it.
 
 If the salesperson makes an unsupported claim, challenge it.
 
@@ -29,4 +29,4 @@ After the round, start with the buyer:
 3. Which question changed the conversation?
 4. What would make a next step worth agreeing?
 
-Then use the [Conversation Review](../coaching/conversation-review.md). Capture one thing to keep and one thing to try differently next time.
+Then use the [Conversation Review](../coaching/conversation-review.md). Write down one thing to keep and one thing to do differently next time.

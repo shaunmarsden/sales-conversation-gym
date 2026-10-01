@@ -1,11 +1,11 @@
 # AI Plays the Buyer
 
-For when you do not have a second person free to play the buyer. Paste the prompt below into an AI tool along with one role card, then run the round as the salesperson.
+Use this when nobody is free to play the buyer. Paste the prompt below into an AI tool with one role card, then run the round as the salesperson.
 
 ## Set Up
 
 1. Pick one scenario and its matching role card, for example [Meera Commercial Director](../roles/meera-commercial-director.md) for [Hartwell First Discovery](../scenarios/hartwell-first-discovery.md).
-2. Start a fresh chat in your AI tool (ChatGPT, Claude, Gemini, or similar). Paste in the prompt below, then paste the full role card underneath it in the same message.
+2. Start a new chat in your AI tool (ChatGPT, Claude, Gemini or similar). Paste in the prompt below, then paste the full role card under it in the same message.
 3. Send it, then open the conversation as the salesperson, in character, straight away.
 
 ## The Prompt
@@ -27,8 +27,8 @@ Wait for the salesperson's first message before responding.
 
 ## After the Round
 
-Use the [Conversation Review](../coaching/conversation-review.md) exactly as you would after a human-played round, then capture one thing to keep and one thing to try differently next time in the [Session Record](../templates/session-record.md).
+Use the [Conversation Review](../coaching/conversation-review.md) as you would after a round with a human buyer. Then write down one thing to keep and one thing to do differently next time in the [Session Record](../templates/session-record.md).
 
 ## Before You Use It
 
-An AI playing the buyer is a practice partner, not a real buyer. It can misjudge when a question has genuinely earned the hidden detail, and it will not react exactly the way a real person would. Use this to rehearse structure and habits. It is not evidence that a conversation method works with an actual customer.
+An AI playing the buyer is a practice partner, not a real buyer. It can misjudge when a question has earned the hidden detail, and it won't react exactly as a real person would. Use it to rehearse structure and habits. It doesn't show that a way of running a conversation works with a real customer.

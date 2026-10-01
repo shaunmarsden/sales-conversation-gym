@@ -1,6 +1,6 @@
 # Conversation Review
 
-Score the round from 0 to 2 on each check. Use the notes to improve the next conversation, not to declare someone good or bad at selling.
+Score the round from 0 to 2 on each check. Use the notes to improve the next conversation, not to decide whether someone is good or bad at selling.
 
 | Check | 0 | 1 | 2 |
 | --- | --- | --- | --- |
@@ -15,4 +15,4 @@ Score the round from 0 to 2 on each check. Use the notes to improve the next con
 - What did the buyer say that changed the direction of the conversation?
 - Where did the salesperson assume too much?
 - Which question should be kept?
-- What one thing should change next round?
+- What one thing should change in the next round?
