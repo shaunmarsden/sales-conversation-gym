@@ -14,7 +14,7 @@ They aren't scripts. The point is to learn how to think during the conversation,
 | Try a fictional discovery conversation | [Hartwell First Discovery](scenarios/hartwell-first-discovery.md) |
 | Practise a hesitant buyer conversation | [Hartwell Says We Need to Think About It](scenarios/hartwell-think-it-over.md) |
 | Practise a business case conversation with finance | [Hartwell Business Case Conversation](scenarios/hartwell-business-case-conversation.md) |
-| Play the buyer role | [Meera Role Card](roles/meera-commercial-director.md) or [Daniel Role Card](roles/daniel-finance-director.md) |
+| Play the buyer role | [Meera, first discovery](roles/meera-commercial-director.md), [Meera, after discovery](roles/meera-after-discovery.md) (for the "think about it" scenario) or [Daniel, finance director](roles/daniel-finance-director.md) (for the business case) |
 | Practise without a second person | [AI Plays the Buyer](guides/ai-plays-the-buyer.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
@@ -24,7 +24,7 @@ They aren't scripts. The point is to learn how to think during the conversation,
 1. One person plays the salesperson.
 2. Another person, or an AI given [a structured prompt](guides/ai-plays-the-buyer.md), plays the buyer using only the role card.
 3. The salesperson tries to understand the buyer, not to force a meeting or a sale.
-4. The buyer gives feedback from the role card.
+4. The buyer gives feedback, using the questions in [Run a Round](guides/run-a-round.md).
 5. The salesperson reviews the conversation with the coaching sheet.
 
 Nobody should see the buyer's hidden context before the round.

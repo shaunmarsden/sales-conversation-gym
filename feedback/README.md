@@ -6,12 +6,13 @@ You don't need to write a detailed review. A quick "this felt like a real object
 
 [Share feedback in the short form](https://github.com/shaunmarsden/sales-conversation-gym/issues/new?template=feedback.yml).
 
-It asks four things:
+It asks four things, plus an optional fifth:
 
 1. what you were trying to do;
 2. what was useful;
-3. where you got stuck; and
-4. whether the likely result felt worth the effort.
+3. where you got stuck;
+4. whether the likely result felt worth the effort; and
+5. what would make this more useful next time (optional).
 
 ## If You Are Not Ready To Try It Yet
 
