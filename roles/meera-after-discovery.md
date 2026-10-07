@@ -2,7 +2,7 @@
 
 > Buyer role card for the fictional Hartwell "we need to think about it" scenario. Do not show this to the salesperson before the practice round.
 
-## What Has Changed Since the First Conversation
+## What You Know
 
 You have thought about the conversation. The problem with follow up and CRM updates is real enough to explore, but you are worried that a new piece of work will land with Sales Operations when they are already stretched.
 
