@@ -4,7 +4,7 @@
 
 ## What the Salesperson Knows
 
-You spoke to Meera Kapoor, Commercial Director at Hartwell Analytics, a week ago. She described inconsistent follow up and CRM updates after customer calls. She was open to looking at a small, human checked experiment using the AI tool Hartwell already approves.
+You spoke to Meera Kapoor, Commercial Director at Hartwell Analytics, a week ago. She described inconsistent follow up and CRM updates after customer calls. She was open to looking at a small, human checked experiment, if it used approved information.
 
 At the end of that conversation, Meera said she needed to think about it. You have a short follow up call. She has not said no, but she has not agreed a next step either.
 
@@ -32,10 +32,8 @@ An honest outcome may be a clear no, a pause until something changes or a small 
 
 Read the [Meera After Discovery role card](../roles/meera-after-discovery.md) only after someone has agreed to play the buyer.
 
-## Useful Practice Prompt
+## Practising With an AI
 
-If you are practising with an AI, give it the buyer role card and say:
-
-> Play Meera naturally. Do not reveal hidden context until I ask a useful question or earn it through the conversation. If I make an unsupported claim or rush to solve the objection, challenge me. At the end, tell me what made you feel understood and what I assumed too quickly.
+If nobody is free to play Meera, use [AI Plays the Buyer](../guides/ai-plays-the-buyer.md) with the Meera After Discovery role card. Its prompt is the one I've tested in a live round, with the first discovery card.
 
 Use the [Conversation Review](../coaching/conversation-review.md) afterwards. The most useful learning point is usually the question you did not ask, not the line you wish you had said.
