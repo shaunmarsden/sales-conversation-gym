@@ -15,6 +15,7 @@ body:
         - Run a practice round
         - Try the Hartwell first discovery scenario
         - Try the "think it over" follow-up scenario
+        - Try the Hartwell business case scenario
         - Review a real conversation with the coaching guide
         - Something else
     validations:
