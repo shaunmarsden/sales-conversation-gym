@@ -20,7 +20,7 @@ It held detail back as it should. A vague question got a vague answer. A specifi
 
 When the salesperson made a cost claim with nothing behind it, the buyer challenged it using details already discussed, not a stock objection.
 
-The round ended and gave feedback on cue. The feedback named a real gap in the proposed test. It also raised two things the salesperson never earned, but only in the debrief.
+The round ended and gave feedback on cue. The feedback named a real gap in the proposed test. It also named two hidden details the salesperson never earned during the round, but only in the debrief.
 
 One question is still open. On a completely fresh first turn, it briefly broke character before settling in. Every turn after that, framed as a continuing conversation, stayed in character.
 
