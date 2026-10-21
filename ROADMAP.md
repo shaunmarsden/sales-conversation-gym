@@ -14,7 +14,7 @@
 
 Before I add a score history, leader board or automatic feedback, I want to test whether salespeople find the practice rounds useful without them.
 
-On 5 August 2026 I tested the AI buyer prompt in one live round, rather than just describing how it should behave. I used Hartwell First Discovery with the Meera Commercial Director role card.
+On 5 August 2026 I tested the AI buyer prompt in one live round, rather than just describing how it should behave. I used Hartwell First Discovery with the Imelda Commercial Director role card.
 
 It held detail back as it should. A vague question got a vague answer. A specific question got the hidden detail it was aimed at.
 
