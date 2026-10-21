@@ -14,7 +14,7 @@ They aren't scripts. The point is to learn how to think during the conversation,
 | Try a fictional discovery conversation | [Hartwell First Discovery](scenarios/hartwell-first-discovery.md) |
 | Practise a hesitant buyer conversation | [Hartwell Says We Need to Think About It](scenarios/hartwell-think-it-over.md) |
 | Practise a business case conversation with finance | [Hartwell Business Case Conversation](scenarios/hartwell-business-case-conversation.md) |
-| Play the buyer role | [Meera, first discovery](roles/meera-commercial-director.md), [Meera, after discovery](roles/meera-after-discovery.md) (for the "think about it" scenario) or [Daniel, finance director](roles/daniel-finance-director.md) (for the business case) |
+| Play the buyer role | [Imelda, first discovery](roles/imelda-commercial-director.md), [Imelda, after discovery](roles/imelda-after-discovery.md) (for the "think about it" scenario) or [Gideon, finance director](roles/gideon-finance-director.md) (for the business case) |
 | Practise without a second person | [AI Plays the Buyer](guides/ai-plays-the-buyer.md) |
 | Review how the conversation went | [Conversation Review](coaching/conversation-review.md) |
 | Capture a repeatable learning point | [Session Record](templates/session-record.md) |
