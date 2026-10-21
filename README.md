@@ -27,7 +27,7 @@ They aren't scripts. The point is to learn how to think during the conversation,
 4. The buyer gives feedback, using the questions in [Run a Round](guides/run-a-round.md).
 5. The salesperson reviews the conversation with the coaching sheet.
 
-Nobody should see the buyer's hidden context before the round.
+Nobody should see the buyer's hidden context before the round. If you practise alone with an AI, you'll see the role card when you paste it, and [AI Plays the Buyer](guides/ai-plays-the-buyer.md) says how to limit that.
 
 [![Sales conversation practice loop](assets/diagrams/26-sales-conversation-gym.svg)](guides/run-a-round.md)
 

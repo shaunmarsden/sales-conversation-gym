@@ -32,3 +32,8 @@ Use the [Conversation Review](../coaching/conversation-review.md) as you would a
 ## Before You Use It
 
 An AI playing the buyer is a practice partner, not a real buyer. It can misjudge when a question has earned the hidden detail, and it won't react exactly as a real person would. Use it to rehearse structure and habits. It doesn't show that a way of running a conversation works with a real customer.
+
+Two more limits:
+
+- **You will see the role card.** You have to paste it, so some of the detail it holds back from the salesperson won't be hidden from you. Paste it without reading the section headed "What You Will Not Volunteer Immediately", or ask someone else to paste it for you.
+- **I've tested the prompt once.** That was one live round with the Meera Commercial Director card. I haven't recorded a test with the other two cards. On the very first turn of that round it briefly broke character, then stayed in character for the rest.
