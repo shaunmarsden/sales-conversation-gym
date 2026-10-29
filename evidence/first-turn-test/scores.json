@@ -1,0 +1,122 @@
+{
+ "g184359": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g267148": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g273232": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g288601": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g325917": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g365683": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g389088": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g389563": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g405035": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g456190": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g484635": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g503899": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g534435": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g593733": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g600090": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g636395": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g654066": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g656454": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g734949": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g782027": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g792476": {
+  "turn": "setup",
+  "pass": 0,
+  "leak": 0
+ },
+ "g819975": {
+  "turn": "setup",
+  "pass": 1,
+  "leak": 0
+ },
+ "g891319": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ },
+ "g903946": {
+  "turn": "opening",
+  "pass": 1,
+  "leak": 0
+ }
+}
