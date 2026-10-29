@@ -22,7 +22,7 @@ When the salesperson made a cost claim with nothing behind it, the buyer challen
 
 The round ended and gave feedback on cue. The feedback named a real gap in the proposed test. It also named two hidden details the salesperson never earned during the round, but only in the debrief.
 
-One question is still open. On a completely fresh first turn, it briefly broke character before settling in. Every turn after that, framed as a continuing conversation, stayed in character.
+On a completely fresh first turn, it briefly broke character before settling in. Every turn after that, framed as a continuing conversation, stayed in character. On 29 October 2026 a [first-turn test](evidence/first-turn-test/results.md) traced the break to the setup message and tested a fix, now in the prompt: with it, all 12 first turns stayed in character, against 6 of 12 before.
 
 This is one test, and I built the prompt and ran the test myself. It makes me more confident the prompt works, but it isn't independent evidence that it works for someone else.
 

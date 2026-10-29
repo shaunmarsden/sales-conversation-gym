@@ -6,7 +6,7 @@ Use this when nobody is free to play the buyer. Paste the prompt below into an A
 
 1. Pick one scenario and its matching role card, for example [Imelda Commercial Director](../roles/imelda-commercial-director.md) for [Hartwell First Discovery](../scenarios/hartwell-first-discovery.md).
 2. Start a new chat in your AI tool (ChatGPT, Claude, Gemini or similar). Paste in the prompt below, then paste the full role card under it in the same message.
-3. Send it, then open the conversation as the salesperson, in character, straight away.
+3. Send it. The AI should reply only "Ready when you are." Then open the conversation as the salesperson, in character. You can also put your opening line under the role card in the same message, and the AI will answer it as the buyer.
 
 ## The Prompt
 
@@ -22,7 +22,7 @@ Rules:
 - The round ends when the salesperson proposes a next step, asks to end it, or the conversation has clearly run out of direction. When it ends, say "The round is over" and drop out of character.
 - Once out of character, answer honestly as feedback: what made you feel understood, what sounded generic or assumed, which question changed the conversation, and what would make a next step worth agreeing to.
 
-Wait for the salesperson's first message before responding.
+This first message only sets up the round. If it ends with the role card, reply with one short line and nothing else, such as "Ready when you are." Don't summarise the role card, repeat these rules or explain what you will do. If the salesperson's opening line is already included below the role card, don't send the ready line: answer the opening line as the buyer. From the salesperson's first line on, you are the buyer.
 ```
 
 ## After the Round
@@ -36,4 +36,4 @@ An AI playing the buyer is a practice partner, not a real buyer. It can misjudge
 Two more limits:
 
 - **You will see the role card.** You have to paste it, so some of the detail it holds back from the salesperson won't be hidden from you. Paste it without reading the section headed "What You Will Not Volunteer Immediately", or ask someone else to paste it for you.
-- **I've tested the prompt once.** That was one live round with the Imelda Commercial Director card. I haven't recorded a test with the other two cards. On the very first turn of that round it briefly broke character, then stayed in character for the rest.
+- **I've tested a whole round once.** That was one live round with the Imelda Commercial Director card. On its very first turn it briefly broke character. A [first-turn test](../evidence/first-turn-test/results.md) across all three cards traced that to the setup message, and the prompt above now fixes it: with the fix, all 12 first turns stayed in character, against 6 of 12 before. That test covers only the first turn. I haven't recorded a whole round with the other two cards.
