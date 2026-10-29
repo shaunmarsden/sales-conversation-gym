@@ -1,0 +1,146 @@
+{
+ "g654066": {
+  "card": "gideon-finance-director",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g656454": {
+  "card": "gideon-finance-director",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g405035": {
+  "card": "imelda-commercial-director",
+  "turn": "setup",
+  "arm": "current",
+  "run": 2
+ },
+ "g389088": {
+  "card": "gideon-finance-director",
+  "turn": "opening",
+  "arm": "current",
+  "run": 2
+ },
+ "g636395": {
+  "card": "gideon-finance-director",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g782027": {
+  "card": "imelda-after-discovery",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g456190": {
+  "card": "gideon-finance-director",
+  "turn": "setup",
+  "arm": "current",
+  "run": 1
+ },
+ "g273232": {
+  "card": "imelda-after-discovery",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g184359": {
+  "card": "imelda-after-discovery",
+  "turn": "setup",
+  "arm": "current",
+  "run": 2
+ },
+ "g267148": {
+  "card": "imelda-commercial-director",
+  "turn": "opening",
+  "arm": "current",
+  "run": 2
+ },
+ "g600090": {
+  "card": "imelda-commercial-director",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g593733": {
+  "card": "imelda-after-discovery",
+  "turn": "setup",
+  "arm": "current",
+  "run": 1
+ },
+ "g792476": {
+  "card": "gideon-finance-director",
+  "turn": "setup",
+  "arm": "current",
+  "run": 2
+ },
+ "g389563": {
+  "card": "imelda-commercial-director",
+  "turn": "setup",
+  "arm": "current",
+  "run": 1
+ },
+ "g534435": {
+  "card": "imelda-commercial-director",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g325917": {
+  "card": "imelda-after-discovery",
+  "turn": "opening",
+  "arm": "current",
+  "run": 1
+ },
+ "g484635": {
+  "card": "gideon-finance-director",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g891319": {
+  "card": "imelda-commercial-director",
+  "turn": "opening",
+  "arm": "current",
+  "run": 1
+ },
+ "g734949": {
+  "card": "imelda-commercial-director",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g365683": {
+  "card": "imelda-commercial-director",
+  "turn": "opening",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g288601": {
+  "card": "imelda-after-discovery",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 2
+ },
+ "g819975": {
+  "card": "imelda-after-discovery",
+  "turn": "setup",
+  "arm": "fixed",
+  "run": 1
+ },
+ "g503899": {
+  "card": "imelda-after-discovery",
+  "turn": "opening",
+  "arm": "current",
+  "run": 2
+ },
+ "g903946": {
+  "card": "gideon-finance-director",
+  "turn": "opening",
+  "arm": "current",
+  "run": 1
+ }
+}
